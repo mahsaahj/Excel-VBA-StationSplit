@@ -31,8 +31,6 @@ Additionally, the average values of numeric columns are calculated and appended 
 - Macros must be enabled in Excel to run the VBA code.  
 - Existing worksheets named after stations will be deleted and replaced upon running the macro.  
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For questions or feedback, please contact:  
